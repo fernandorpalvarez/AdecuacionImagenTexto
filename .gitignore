@@ -18,3 +18,6 @@
 /Image_Text_Matching_Model/Image_Text_Adequacy_ELMO/Autokeras/model_autokeras.h5
 /Pipeline_Model/model_weights/
 /Pipeline_Model/text_summarization_model_weights/
+/Translation_Model/models/
+/Translation_Model/data/
+/Translation_Model/.ipynb_checkpoints/
