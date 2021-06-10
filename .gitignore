@@ -21,3 +21,13 @@
 /Translation_Model/models/
 /Translation_Model/data/
 /Translation_Model/.ipynb_checkpoints/
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/encoded_train_images.pkl
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/encoded_test_images.pkl
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/df_train_combined.pkl
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/df_test_combined.pkl
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/dataset_generator.ipynb
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/bert_train_03032019.pickle
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/bert_test_03032019.pickle
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/Autokeras/model_autokeras.h5
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/Autokeras/structured_data_classifier/
+/Image_Text_Matching_Model/Image_Text_Adequacy_BERT/Autokeras/.ipynb_checkpoints/
